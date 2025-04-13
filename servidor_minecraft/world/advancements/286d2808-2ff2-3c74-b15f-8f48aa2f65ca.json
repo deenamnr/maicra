@@ -30,5 +30,29 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/remote_access_sentry": {
+    "criteria": {
+      "has_sentry": "2025-04-13 01:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-13 01:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-13 01:35:39 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:main/fbomb": {
+    "criteria": {
+      "inventory_changed": "2025-04-13 01:41:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
