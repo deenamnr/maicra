@@ -4,17 +4,5 @@
     "name": "deenamnr",
     "level": 4,
     "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "7ed344a3-a225-3a48-b8ce-153879f8b9a6",
-    "name": "lmambanga",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "1a7f054a-1de3-3085-8663-32b1f5cdd900",
-    "name": "lmamnanga",
-    "level": 4,
-    "bypassesPlayerLimit": false
   }
 ]
