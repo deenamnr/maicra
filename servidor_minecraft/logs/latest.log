@@ -148,3 +148,6 @@
 [13Apr2025 00:33:45.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: deenamnr lost connection: Disconnected
 [13Apr2025 00:33:45.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: deenamnr left the game
 [13Apr2025 00:35:26.683] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@648d6aed[id=<null>,name=lmambanga,properties={},legacy=false] (/127.82.54.109:46417) lost connection: Disconnected
+[13Apr2025 00:36:42.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Apr2025 00:36:42.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mwnu<--[HERE]
+[13Apr2025 00:36:54.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made deenamnr a server operator

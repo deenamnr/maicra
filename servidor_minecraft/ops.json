@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "286d2808-2ff2-3c74-b15f-8f48aa2f65ca",
+    "name": "deenamnr",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

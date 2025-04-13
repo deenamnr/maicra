@@ -639,3 +639,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [13Apr2025 00:35:26.574] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
 [13Apr2025 00:35:26.624] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
 [13Apr2025 00:35:26.683] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@648d6aed[id=<null>,name=lmambanga,properties={},legacy=false] (/127.82.54.109:46417) lost connection: Disconnected
+[13Apr2025 00:36:42.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Apr2025 00:36:42.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mwnu<--[HERE]
+[13Apr2025 00:36:54.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made deenamnr a server operator
+[13Apr2025 00:37:33.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 00:37:33.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 00:42:33.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 00:42:33.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
